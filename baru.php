@@ -1,1 +1,1 @@
-"<?php print 'another file';" 
+<?php print 'another file';
