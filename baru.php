@@ -3,5 +3,5 @@ echo "my test";
 
 print 'another file';
 print '\n';
-print 'another line';
+print 'another line'; // comment
 ?>
