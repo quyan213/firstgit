@@ -6,4 +6,6 @@ print '\n';
 print 'another line'; // comment
 
 echo "hadeuh ngemeng wae";
+
+echo "Yanni was here";
 ?>
