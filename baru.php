@@ -8,4 +8,5 @@ print 'another line'; // comment
 echo "hadeuh ngemeng wae";
 
 echo "Yanni was here";
+print 'I'm Ando';
 ?>
