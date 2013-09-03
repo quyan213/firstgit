@@ -1,1 +1,5 @@
-<?php print 'another file';
+<?php 
+print 'another file';
+print '\n';
+print 'another line';
+?>
