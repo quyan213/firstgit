@@ -4,4 +4,6 @@ echo "my test";
 print 'another file';
 print '\n';
 print 'another line'; // comment
+
+echo "hadeuh ngemeng wae";
 ?>
